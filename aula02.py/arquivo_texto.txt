@@ -1,0 +1,4 @@
+este é um arquivo de texto
+linha 2
+linha 3
+última linha!
